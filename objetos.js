@@ -9,4 +9,4 @@ class Calebe {
 }
 
 var Calebe = new Calebe ("https://www.youtube.com/@Beaguilera");
-novoObjeto.metodoQueVocêCriou();
+exibirSite.metodoQueVocêCriou();
