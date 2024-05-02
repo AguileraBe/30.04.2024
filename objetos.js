@@ -8,5 +8,5 @@ class Calebe {
     }
 }
 
-var Calebe = new Calebe ("https://www.youtube.com/@Beaguilera");
-exibirSite.metodoQueVocêCriou();
+var novoCalebe = new Calebe ("https://www.youtube.com/@Beaguilera");
+novoCalebe.exibirSite();
